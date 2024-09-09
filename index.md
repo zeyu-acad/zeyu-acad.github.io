@@ -2,18 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Recent Research
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Across the Pages: A Comparative Study of Reader
+Response to Web Novels in Chinese and English on Qidian
+and WebNovel](/sample_page)
+<img src=""/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
