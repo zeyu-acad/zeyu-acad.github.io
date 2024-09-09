@@ -1,0 +1,13 @@
+title: Ze Yu /于泽 # your name (or website title) here
+logo: "/images/IMG_4208.JPG?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Pleasure to meet you! 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/ze-yu-f12/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here
