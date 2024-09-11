@@ -18,5 +18,5 @@ and WebNovel](/sample_page)
 
 ---
 
-### Sparkle of my life
+### Life Sparkles
 
