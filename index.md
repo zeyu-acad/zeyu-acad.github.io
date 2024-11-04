@@ -14,7 +14,7 @@ and WebNovel](/sample_page)
 
 ### Corpus
 
-- [Qidian-Webnovel]([http://example.com/](https://github.com/zeyu-acad/Qidian-Webnovel-Corpus))
+- [Qidian-Webnovel]([http://example.com/](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/GQXX3K))
 
 ---
 
